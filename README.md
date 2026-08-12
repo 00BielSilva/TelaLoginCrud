@@ -19,11 +19,6 @@ O projeto consiste em um sistema de gerenciamento de **Vendas** integrado ao **A
 
 O projeto utiliza os seguintes pacotes NuGet:
 - `Microsoft.AspNetCore.Identity.EntityFrameworkCore`
-- `Microsoft.EntityFrameworkCore`
-- `Microsoft.EntityFrameworkCore.SqlServer`
-- `Microsoft.EntityFrameworkCore.Tools`
-- `Microsoft.EntityFrameworkCore.Design`
-- `Microsoft.VisualStudio.Web.CodeGeneration.Design`
 
 ## Banco de Dados
 
