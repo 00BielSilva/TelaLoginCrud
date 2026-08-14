@@ -53,7 +53,7 @@ A interface foi desenvolvida utilizando:
 ### Telas do Sistema
 
 #### Tela Inicial (Welcome)
-![Tela Inicial](TelaLoginCrud/imagem/Captura de tela 2026-08-12 101526.png)
+![Tela Inicial](TelaLoginCrud/imagem/Captura%20de%20tela%202026-08-12%20101526.png)
 
 #### Listagem de Vendas
 ![Lista de Vendas](TelaLoginCrud/TelaLoginCrud/imagem/Captura de tela 2026-08-12 101532.png)
