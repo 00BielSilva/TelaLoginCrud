@@ -56,10 +56,10 @@ A interface foi desenvolvida utilizando:
 ![Tela Inicial](TelaLoginCrud/imagem/Captura%20de%20tela%202026-08-12%20101526.png)
 
 #### Listagem de Vendas
-![Lista de Vendas](TelaLoginCrud/TelaLoginCrud/imagem/Captura de tela 2026-08-12 101532.png)
+![Lista de Vendas](TelaLoginCrud/TelaLoginCrud/imagem/Captura%20de%20tela%202026-08-12%20101532.png)
 
 #### Gerenciamento de Perfil (Identity)
-![Gerenciamento de perfis](TelaLoginCrud/TelaLoginCrud/imagem/Captura de tela 2026-08-12 102428.png)
+![Gerenciamento de perfis](TelaLoginCrud/TelaLoginCrud/imagem/Captura%20de%20tela%202026-08-12%20102428.png)
 
 ## Como Executar o Projeto
 
